@@ -269,14 +269,6 @@ https://regulatory-knowledge-assistant-rka-q2q7paevuqr2lqvakz7hx9.streamlit.app/
 
 ---
 
-# Future Improvements
-
-* Persistent vector database storage
-* Advanced document chunking
-* Better citation tracking
-* Multi-document summarization
-* Role-based enterprise deployment
-
 ---
 
 # License
