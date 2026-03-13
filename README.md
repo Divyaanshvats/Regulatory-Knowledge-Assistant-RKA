@@ -13,7 +13,7 @@ https://regulatory-knowledge-assistant-rka-q2q7paevuqr2lqvakz7hx9.streamlit.app/
 
 ---
 
-# Q1. Why I Chose This Project
+# Why I Chose This Project
 
 NeoStats works with organizations that often need **accurate answers from regulatory documents such as labour laws, banking guidelines, and HR policies**. These documents are typically lengthy and complex, making it difficult for users to quickly retrieve relevant information.
 
@@ -57,7 +57,7 @@ The complete solution — from development to deployment — was designed to be 
 
 ---
 
-# Q2. Basic Architecture of the Model
+# Basic Architecture of the Model
 
 The system follows a **Retrieval-Augmented Generation (RAG)** architecture.
 
@@ -91,7 +91,7 @@ This architecture ensures that:
 
 ---
 
-# Q3. Overall Configuration (Project Structure)
+# Overall Configuration (Project Structure)
 
 The system is organized into modular components for scalability and maintainability.
 
