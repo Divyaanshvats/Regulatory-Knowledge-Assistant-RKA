@@ -269,8 +269,6 @@ https://regulatory-knowledge-assistant-rka-q2q7paevuqr2lqvakz7hx9.streamlit.app/
 
 ---
 
----
-
 # License
 
 MIT License
